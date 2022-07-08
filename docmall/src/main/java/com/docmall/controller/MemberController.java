@@ -18,7 +18,7 @@ public class MemberController {
 		
 	}		
 	
-	@PostMapping("/joinok")
+	@PostMapping("/join_ok")
 	public void join_ok() {
 		
 	}
